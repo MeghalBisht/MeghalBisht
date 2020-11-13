@@ -16,5 +16,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MeghalBisht&show_icons=true" alt="meghal_bisht" /></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/meghal-bisht-777451177/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="meghal_bisht" height="35" width="35" /></a>
+<a href="https://www.linkedin.com/in/meghal-bisht-777451177/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="meghal_bisht" height="35" width="35" /></a>
 </p>
