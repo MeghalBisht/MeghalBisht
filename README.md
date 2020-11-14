@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **mailtomeghu25@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MeghalBisht&show_icons=true" alt="meghal_bisht" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MeghalBisht&show_icons=true&count_private=true&theme=radical" alt="meghal_bisht" /></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/meghal-bisht-777451177/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="meghal_bisht" height="35" width="35" /></a>
