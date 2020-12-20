@@ -2,14 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MeghalBisht" alt="MeghalBisht" /> </p>
 
-- 🔭 I’m currently working with **MERN Stack**
-
-- 🌱 I’m currently learning **NextJS,GraphQL and Bundlers**
-
 
 - 👨‍💻 All my repos are available at [github.com/MeghalBisht](https://github.com/MeghalBisht)
 
-- 💬 Ask me about **React and Javascript, NodeJS and MongoDB, Server Side Rendering, GraphQL**
 
 - 📫 Reach me at **mailtomeghu25@gmail.com**
 
