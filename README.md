@@ -1,5 +1,3 @@
-<h2 align="center">Hi there👋, Myself Meghal Bisht</h2>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MeghalBisht" alt="MeghalBisht" /> </p>
 
 
