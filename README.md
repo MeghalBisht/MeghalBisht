@@ -3,9 +3,6 @@
 
 - 👨‍💻 All my repos are available at [github.com/MeghalBisht](https://github.com/MeghalBisht)
 
-
-- 📫 Reach me at **mailtomeghu25@gmail.com**
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MeghalBisht&show_icons=true&count_private=true&theme=radical" alt="meghal_bisht" /></p>
 <br/>
 
