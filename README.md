@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MeghalBisht" alt="MeghalBisht" /> </p>
 
 
-- 👨‍💻 All my repos are available at [github.com/MeghalBisht](https://github.com/MeghalBisht)
+ 👨‍💻 All my repos are available at [github.com/MeghalBisht](https://github.com/MeghalBisht)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MeghalBisht&show_icons=true&count_private=true&theme=radical" alt="meghal_bisht" /></p>
 <br/>
